@@ -1,0 +1,7 @@
+def greet(input):
+    if "hello" in input:
+        return("Hi there, am Sonam")
+    else:
+        return("I'm not sure")
+greeting=greet("hello there")
+print(greeting)
