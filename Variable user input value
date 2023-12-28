@@ -1,0 +1,5 @@
+def get_gues():
+    guess=input("Enter the number")
+    return guess
+#getguess=get_gues()
+print("Your guess number is : ",get_gues())
