@@ -1,0 +1,6 @@
+def greet(input):
+    if "hello" in input:
+        print("Hi there, am Sonam")
+    else:
+        print("I'm not sure")
+greet("hello there")
